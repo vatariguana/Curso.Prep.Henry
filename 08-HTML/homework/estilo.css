@@ -1,0 +1,75 @@
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: black;
+}
+body{
+  background-image: url(https://image.freepik.com/vector-gratis/fondo-abstracto-formas-blancas_79603-1362.jpg);
+  
+}
+.container{
+  display: flex; 
+  width: 1200px;
+  margin: 0 auto ;
+}
+aside{
+  background-color: #262a31ea ;
+  width: 40%;
+  margin-right: 5px;
+}
+aside p{
+  line-height: 1.5em;
+}
+aside *{
+  color: white;
+}
+
+aside h2{
+  color: rgb(167, 73, 7);
+
+}
+.titulo{
+  background-color: rgb(216, 203, 197);
+  padding: 5% 0;
+ 
+}
+h1,h2{
+  text-transform: uppercase;
+}
+.titulo h1{
+  letter-spacing: 10px;
+}
+.titulo h2{
+  letter-spacing: 5px;
+}
+.about p{
+  line-height: 2em;
+  background-color: rgb(216, 203, 197);
+  padding: 5px;
+}
+.experiencia p{
+line-height: 2em;
+}
+#picture img {
+  border-radius: 100%;
+  width: 120px;
+  border: 2px solid black;
+}
+aside section h2:first-child{
+  border-bottom: 1px solid white;
+}
+ul li{
+  list-style: none;
+  padding: 0%;
+}
+ul{
+  padding: 0%;
+}
+
+
+
+
+
+
+
+
